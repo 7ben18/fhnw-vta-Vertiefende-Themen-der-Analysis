@@ -1,1 +1,1 @@
-# fhnw-vta-Vertiefende-Themen-der-Analysis
+# vta Minichallenge 1 
